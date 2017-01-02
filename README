@@ -1,0 +1,36 @@
+
+                               Flight detective
+
+What is it?
+-----------
+The flight detective tool is intended to do an extensive study on flights on
+different days, using different engines and extract the best prices. It's based
+on a headless browser (PhantomJS) to generate results and then sort them
+appropriately.
+
+Latest version
+--------------
+The flight detective project is currently being hosted on Github, more
+concretely in the address https://github.com/jmtorrespalma/flight-detective.git,
+but the intention is to migrate it to a private server while maintaining this
+one as a mirror.
+
+Licensing
+---------
+See the file accompanying this project called COPYING.
+
+Documentation
+-------------
+The only sources of documentation are this file, along with the commented
+souce code and the provided templates but due to the simplicity of the tool,
+it's considered to be enough.
+
+Building
+--------
+TODO
+
+Usage
+-----
+TODO
+
+Copyright (C) 2016 Juan Manuel Torres Palma <j.m.torrespalma@gmail.com>

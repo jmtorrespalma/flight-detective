@@ -1,0 +1,10 @@
+# Rules of .gitignore
+
+*.swp
+
+# All text files
+*.txt
+
+# Project specific files
+phantomjs-*
+setup.sh
